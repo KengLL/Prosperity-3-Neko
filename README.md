@@ -3,9 +3,10 @@
 The repository contains our team **"猫" (Neko, as in Cat Island 🐈)** code and approach for Prosperity 3.
 
 ## Final Rankings
-- 🏅 **172nd overall** (out of 12,620 teams)  
 - 🧠 **2nd in Manual**  
+- 🏅 **172nd overall** (out of 12,620 teams)  
 - 🇺🇸 **#50 in the United States**
+- ![Leaderboard Results](Images/leaderboard.jpg)
 
 ## Members
 <table>
