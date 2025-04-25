@@ -566,8 +566,6 @@ class Macarons(Strategy):
                 time % 100_000
             )
 
-        buy_price = obs.askPrice + obs.transportFees + obs.importTariff
-        sell_price = obs.bidPrice - obs.exportTariff - obs.transportFees
         best_bid = max(state.order_depths[self.symbol].buy_orders.keys())
         best_ask = min(state.order_depths[self.symbol].sell_orders.keys())
 
@@ -688,7 +686,7 @@ class Trader:
         croissants = Hedge("CROISSANTS", limit=250)
         djembe = Hedge("DJEMBES", limit=60)
         jams = Hedge("JAMS", limit=350)
-        volcanic_rock = Hedge("VOLCANIC_ROCK", limit=400)
+        # volcanic_rock = Hedge("VOLCANIC_ROCK", limit=400)
 
         croissants.place_hedge(
             traderData["PICNIC_BASKET1"].position * -6
