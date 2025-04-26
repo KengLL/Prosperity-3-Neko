@@ -3,10 +3,10 @@
 The repository contains our team **"猫" (Neko, as in Cat Island 🐈)** code and approach for Prosperity 3.
 
 ## Final Rankings
-- 🧠 **2nd in Manual**  
+- 🧠 **2nd in Manual** (out of 12,620 teams)  
 - 🏅 **172nd overall** (out of 12,620 teams)  
 - 🇺🇸 **#50 in the United States**
-- ![Leaderboard Results](Images/leaderboard.jpg)
+![Leaderboard Results](Images/leaderboard.png)
 
 ## Members
 <table>
@@ -40,7 +40,7 @@ The repository contains our team **"猫" (Neko, as in Cat Island 🐈)** code an
 
 2. **Leverage the "Freeroll"**  
    No entry cost = no real downside—unless you name your team after your alma mater.  
-   - Pro Tip: To hedge against emotional loss, name your team after your rival school. That way, if you blow up, it’s their reputation on the line.
+   - **Pro Tip**: To hedge against emotional loss, name your team after your rival school. That way, if you blow up, it’s their reputation on the line.
 
 3. **Poker Analogy**  
    Treat the competition like a poker tournament, where seashells are your stack and the prize pool is the payout structure.  
